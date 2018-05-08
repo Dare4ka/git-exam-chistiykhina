@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.0.2] - 2018-05-08
+### Hotfix
+- Add function phpinfo().
+
 ## [0.0.1] - 2018-05-07
 ### Created
 - Create basic project files.
