@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.1.0] - 2018-05-08
+### Feature
+- Add echo.
+
 ## [0.0.2] - 2018-05-08
 ### Hotfix
 - Add function phpinfo().
